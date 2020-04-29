@@ -1,0 +1,1 @@
+https://github.com/bsferreira/solid/tree/master/src/com/github/bsferreira/solid
